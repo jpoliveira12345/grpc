@@ -1,2 +1,5 @@
-*.class
-*.prefs
+# Maven (examples)
+target
+.settings
+.vscode
+bin
